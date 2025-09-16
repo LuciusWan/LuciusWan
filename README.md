@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LuciusWan&show_icons=true&theme=ambient_gradient&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LuciusWan&show_icons=true&theme=ambient_gradient&count_private=true"/>
 
 ### Hi there , LuciusWan👋
 
