@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%EF%BC%81This+Is+LuciusWan!!;Welcome+To+My+Homepage%EF%BC%81%EF%BC%81%EF%BC%81)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciusWan&theme=ambient_gradient)
-
-### Hi there , LuciusWan👋
 
 - :orange_book: Focusing on Java
 - :sparkling_heart: I like coding and reading
